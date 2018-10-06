@@ -25,8 +25,15 @@
             </intent-filter>
         </activity>
         <activity android:name="com.example.quickmeet.LoginRegistrationActivity" />
-        <activity android:name="com.example.quickmeet.LoginActivity" />
         <activity android:name="com.example.quickmeet.RegistrationActivity" />
+        <activity android:name="com.example.quickmeet.MyProfileActivity" />
+        <activity android:name="com.example.quickmeet.MapsActivity" />
+        <activity android:name="com.example.quickmeet.TheirPostActivity" />
+        <activity android:name="com.example.quickmeet.TheirProfileActivity" />
+        <activity android:name="com.example.quickmeet.MessagesActivity" />
+        <activity android:name="com.example.quickmeet.SettingsActivity" />
+        <activity android:name="com.example.quickmeet.MyPostActivity" />
+        <activity android:name="com.example.quickmeet.MessagingActivity" />
     </application>
 
 </manifest>
