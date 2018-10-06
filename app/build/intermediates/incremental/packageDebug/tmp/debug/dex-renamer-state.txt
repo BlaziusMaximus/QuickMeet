@@ -1,0 +1,4 @@
+#Sat Oct 06 13:01:07 EDT 2018
+base.0=C\:\\Users\\adamc77\\AndroidStudioProjects\\QuickMeet\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
